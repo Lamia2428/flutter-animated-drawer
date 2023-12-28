@@ -23,23 +23,27 @@ Make sure you have Flutter installed on your machine. If not, follow the [offici
    cd flutter-animated-drawer
 
 2. Install dependencies:
-flutter pub get
+    flutter pub get
 
 
 3.Run the app:
-flutter run
+   flutter run
 
 
-Dependencies:
+ ## Dependencies:
 
 Flutter Zoom Drawer: A Flutter package for creating animated zoom drawers.
 
-Customization:
+## Customization:
 
 Feel free to customize the code to fit your application's design and functionality requirements. Modify icons, labels, and navigation logic according to your needs.
 
-results : 
+## Demo : 
+
+
 ![dd1](https://github.com/Lamia2428/flutter-animated-drawer/assets/99986124/af3a8bb3-e97f-4c29-ba4e-f5c8988ba904)
+
+
 
 ![dd2](https://github.com/Lamia2428/flutter-animated-drawer/assets/99986124/ba75b6ef-0664-4981-bf44-3b9fafab90e5)
 
