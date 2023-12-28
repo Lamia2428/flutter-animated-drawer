@@ -53,4 +53,8 @@ Feel free to customize the code to fit your application's design and functionali
 
 
 
+https://github.com/Lamia2428/flutter-animated-drawer/assets/99986124/df08cbb8-10a4-49d6-aea3-e86e343d2c02
+
+
+
    
