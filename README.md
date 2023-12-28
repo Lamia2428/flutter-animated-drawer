@@ -29,21 +29,20 @@ flutter pub get
 3.Run the app:
 flutter run
 
-Usage
-Explore the animated drawer navigation by interacting with the app.
-Use the bottom navigation bar to switch between different pages.
-Customize menu items, icons, and labels based on your application's requirements.
-Dependencies
+
+Dependencies:
+
 Flutter Zoom Drawer: A Flutter package for creating animated zoom drawers.
-Customization
+
+Customization:
+
 Feel free to customize the code to fit your application's design and functionality requirements. Modify icons, labels, and navigation logic according to your needs.
 
 results : 
 ![dd1](https://github.com/Lamia2428/flutter-animated-drawer/assets/99986124/af3a8bb3-e97f-4c29-ba4e-f5c8988ba904)
 
-Acknowledgments![dd2](https://github.com/Lamia2428/flutter-animated-drawer/assets/99986124/ba75b6ef-0664-4981-bf44-3b9fafab90e5)
+![dd2](https://github.com/Lamia2428/flutter-animated-drawer/assets/99986124/ba75b6ef-0664-4981-bf44-3b9fafab90e5)
 
-Special thanks to the Flutter community and the creators of the Flutter Zoom Drawer package for their valuable contributions.
 
 
 
